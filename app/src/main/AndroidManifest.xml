@@ -23,6 +23,10 @@
             </intent-filter>
         </activity>
     </application>
+<<<<<<< HEAD
 <!--gggggg-->
+=======
+<!--nnnnnnnnnnnn-->
+>>>>>>> d83c80239cb5c27802a01e6ae3f7a7cd76d6ec02
 
 </manifest>
